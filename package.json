@@ -1,0 +1,23 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "This CLI application utilizes javascript, node, & mysql to allow the user to view and manage the departments, roles, and employees for a company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcrammer/employeeTracker.git"
+  },
+  "author": "Katie Crammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcrammer/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/kcrammer/employeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
